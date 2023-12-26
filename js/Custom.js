@@ -19,7 +19,7 @@ function loadingVisible() {
 }
 
 /* Scroll Title Begin */
-var scrl = "Giáng sinh vui vẻ! ";
+var scrl = "Chúc Bé Giáng Sinh Vui Vẻ! ";
 function scrlsts() {
     scrl = scrl.substring(1, scrl.length) + scrl.substring(0, 1);
     document.title = scrl;
@@ -194,8 +194,8 @@ $(document).ready(function() {
                     
                     $(".message").typed({
                         strings: [
-                        "<<< Merry Christmas >>>",
-                        "Giáng sinh zui ze nha !!!, Chúc bản thân luôn thành công trên con đường đã chọn. Một mùa noel thật ấm áp nha.",
+                        "<<< Merry Christmas Trà Giang >>>",
+                        "Chào em, Chúc em một mùa giáng sinh thật nhiều niềm vui, anh lành mà luôn hạnh phúc",
                         ],
                         typeSpeed: 250,
                         startDelay: 100,
