@@ -195,7 +195,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas Trà Giang >>>",
-                        "Chào em, Chúc em một mùa giáng sinh thật nhiều niềm vui, anh lành mà luôn hạnh phúc",
+                        "Chào em, Chúc em một mùa giáng sinh thật nhiều niềm vui, an lành và luôn hạnh phúc",
                         ],
                         typeSpeed: 250,
                         startDelay: 100,
